@@ -1,0 +1,56 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: blanchedalmond;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    
+}
+
+#header {
+    font-weight: bolder;
+    text-decoration: underline;
+    text-align: center;
+    margin: 40px;
+}
+
+#paragraph{
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.labels {
+    font-weight: bold;
+    display: block;
+    margin: 10px;
+}
+input {
+    margin: 5px;
+    padding: 15px;
+    width: 60%;
+    border-radius: 5px;
+    border: 1px solid black;
+    font-size: 16px;
+}
+form {
+    margin: 20px;
+}
+
+.buttons{
+    margin: 40px 20px;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    cursor: pointer;
+}
+footer {
+    text-align: center;
+    margin: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+}
